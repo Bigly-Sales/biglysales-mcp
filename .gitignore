@@ -1,0 +1,5 @@
+# Registry publishing keys: never commit
+*.pem
+key.*
+.mcpregistry_*
+.DS_Store

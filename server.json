@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.biglysales/biglysales",
+  "title": "BiglySales",
+  "description": "Configure the AI sales assistant (voice, SMS, follow-ups, web calling) of your BiglySales workspace.",
+  "websiteUrl": "https://docs.biglysales.com/mcp",
+  "repository": {
+    "url": "https://github.com/Bigly-Sales/biglysales-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.biglysales.com/mcp"
+    }
+  ]
+}

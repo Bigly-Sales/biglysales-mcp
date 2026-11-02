@@ -1,0 +1,10 @@
+{
+  "name": "biglysales",
+  "version": "1.0.0",
+  "description": "Configure the AI sales assistant (voice, SMS, follow-ups, web calling) of your BiglySales workspace.",
+  "mcpServers": {
+    "biglysales": {
+      "httpUrl": "https://app.biglysales.com/mcp"
+    }
+  }
+}
